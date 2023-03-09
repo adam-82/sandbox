@@ -3,5 +3,6 @@ while true
 do
 	echo `date`
     	echo 'error!' >&2
- 	sleep 1
+ 	sleep 5
+
 done
